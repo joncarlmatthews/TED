@@ -1,0 +1,3 @@
+ -x Basic tile editor controls HUD
+ -x Abiliy to pick tiles to place
+ -x Paginate x and y coords
